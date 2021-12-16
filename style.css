@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(187, 184, 184);
+}
+/*-----------------Header-----------------*/
+
+header {
+    background-color: #42a5f5;
+    
+    
+}
+header {
+    color: #0d47a1;
+    font-size: 45px;
+    text-align: center;
+    margin-top: -10px;
+    width: 100%;
+}
+
+h1 {
+    padding-top: 20px;
+}
+ 
+
+header{
+    background-color: rgb(36, 226, 36);
+}
+
+header h1{
+    
+}
+a:visited {
+    color: black;
+}
+/*-------------Main--------------*/
+
