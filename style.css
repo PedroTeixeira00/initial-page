@@ -1,0 +1,19 @@
+/*--------------------Section IMG --------------------*/
+
+section img {
+    width: 400px;
+    height: 600px;
+}
+
+.container-animals-img{
+    display: flex;
+    justify-content: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+img {
+    margin-left: 20px;
+}
