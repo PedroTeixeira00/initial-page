@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(187, 184, 184);
+}
+/*-----------------Header-----------------*/
+header{
+    background-color: rgb(36, 226, 36);
+}
+header h1{
+    
+}
+nav{
+    margin: 25px;
+    padding: 10px;
+}
