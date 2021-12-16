@@ -18,7 +18,7 @@ img {
     margin-left: 20px;
 }
 body{
-    background-color: rgb(187, 184, 184);
+    background-color: #90caf9;
 }
 /*-----------------Header-----------------*/
 
@@ -33,22 +33,43 @@ header {
     text-align: center;
     margin-top: -10px;
     width: 100%;
+    background-color: #2196f3;
 }
 
 h1 {
+    font-size: 60px;
+    color: #0D47A1;
+    text-align: center;
     padding-top: 20px;
+    padding-bottom: -10px;
 }
  
 
-header{
-    background-color: rgb(36, 226, 36);
+.icon-conteiner {
+    margin-top: -40px;
 }
 
-header h1{
-    
+
+.icon-conteiner a:hover {
+    color: blueviolet;
 }
+
 a:visited {
     color: black;
 }
 /*-------------Main--------------*/
 
+.description-conteiner img {
+    margin: 20px;
+    margi
+    width: 400px;
+    height: 550px;
+}
+.description-conteiner {
+    display: flex;
+    font-size: 24px;
+}
+.description-conteiner p {
+
+    
+}
