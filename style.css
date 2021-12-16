@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap');
 /*--------------------Section IMG --------------------*/
 
 section img {
@@ -19,6 +20,7 @@ img {
 }
 body{
     background-color: rgb(187, 184, 184);
+    font-family: 'Roboto', sans-serif;
 }
 /*-----------------Header-----------------*/
 
@@ -44,11 +46,18 @@ header{
     background-color: rgb(36, 226, 36);
 }
 
-header h1{
-    
-}
 a:visited {
     color: black;
+}
+
+footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-weight: bold;
+    height: 48px;
+    background-color: #bbdefb;
 }
 /*-------------Main--------------*/
 
