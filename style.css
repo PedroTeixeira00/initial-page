@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap');
+/*--------------------Section IMG --------------------*/
+
+section img {
+    width: 400px;
+    height: 600px;
+}
+
+.container-animals-img{
+    display: flex;
+    justify-content: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+img {
+    margin-left: 20px;
+}
+body{
+    background-color: rgb(187, 184, 184);
+    font-family: 'Roboto', sans-serif;
+    background-color: #90caf9;
+}
+/*-----------------Header-----------------*/
+
+header {
+    background-color: #42a5f5;
+    
+    
+}
+header {
+    color: #0d47a1;
+    font-size: 45px;
+    text-align: center;
+    margin-top: -10px;
+    width: 100%;
+    background-color: #2196f3;
+}
+
+h1 {
+    font-size: 60px;
+    color: #0D47A1;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: -10px;
+}
+ 
+
+.icon-conteiner {
+    margin-top: -40px;
+}
+
+.icon-conteiner a:hover {
+    color: blueviolet;
+}
+
+a:visited {
+    color: black;
+}
+
+footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-weight: bold;
+    height: 48px;
+    background-color: #bbdefb;
+}
+/*-------------Main--------------*/
+
+.description-conteiner img {
+    margin: 20px;
+    margi
+    width: 400px;
+    height: 550px;
+}
+.description-conteiner {
+    display: flex;
+    font-size: 24px;
+}
+.description-conteiner p {
+
+    
+}
