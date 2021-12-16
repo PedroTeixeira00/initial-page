@@ -5,3 +5,14 @@ section img {
     height: 600px;
 }
 
+.container-animals-img{
+    display: flex;
+}
+
+h3 {
+    text-align: center;
+}
+
+img {
+    margin-left: 20px;
+}
